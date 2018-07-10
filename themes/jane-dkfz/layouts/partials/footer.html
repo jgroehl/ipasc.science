@@ -1,0 +1,14 @@
+<div class="copyright">
+  <span class="copyright-year" style="vertical-align:bottom">
+    {{- $current := now.Format "2006" }}
+    &copy;
+    {{ if ne .Site.Params.since $current }}
+      {{ .Site.Params.since }} -
+    {{ end }}
+    {{- $current }} &nbsp
+{{- if or .Site.Copyright .Site.Author.name -}}
+    <span class="author">{{if .Site.Copyright }}{{ .Site.Copyright | safeHTML }}{{ else }}{{ .Site.Author.name | safeHTML }}{{ end }}</span>
+{{- end -}} &nbsp
+    Hosted by &nbsp <img src="/images/dkfz-logo.png" style="height:40px;vertical-align:bottom;margin-bottom:5px">
+  </span>
+</div>
