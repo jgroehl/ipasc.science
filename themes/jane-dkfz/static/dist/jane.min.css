@@ -147,21 +147,30 @@ color:rgba(0,0,0,.84);background:#BFD1ED;scroll-behavior:smooth}@media screen an
 .footer .copyright{
 	margin:10px 0;
 	color:#8a8a8a;
-	text-align:center;
-	font-family:Athelas,STHeiti,Microsoft Yahei,serif}
+	font-family:sans-serif}
 .footer .copyright .hexo-link,.footer .copyright .theme-link{
-	color:#FF7426
+	color:#FF7426;
 	text-align:right;
-	#}
-.footer .copyright .copyright-dkfz{
-	text-align:right;
-	display:block
+	}
+.footer .copyright .hosted-by{
+	display: inline-block;
+	}
+.footer .copyright .menu{
+	display: inline-block;
+	text-align:left;
 	}
 .footer .copyright .copyright-year{
 	text-align:right;
 	display:block
 	}
-.footer .copyright .copyright-year .heart{font-size:14px}
+.footer .copyright .copyright-year a{
+	font-size:80%;
+	font-family:sans-serif;
+	color:#0047B9;
+	}
+.footer .copyright .copyright-year a:hover{
+	color:#FF7426;
+	}
 .archive{margin:3em 5em 3em;background-color:#fff;padding:1em 5em 5em}
 .archive .archive-title{font-family:Athelas,STHeiti,Microsoft Yahei,serif}
 .archive .archive-title.category,.archive .archive-title.tag{margin:20px 0}

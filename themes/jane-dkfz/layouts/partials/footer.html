@@ -1,5 +1,6 @@
 <div class="copyright">
   <span class="copyright-year" style="vertical-align:top">
+    <div class="hosted-by">	
     {{- $current := now.Format "2006" }}
     &copy;
     {{ if ne .Site.Params.since $current }}
@@ -8,9 +9,14 @@
     {{- $current }} &nbsp
 {{- if or .Site.Copyright .Site.Author.name -}}
     <span class="author">{{if .Site.Copyright }}{{ .Site.Copyright | safeHTML }}{{ else }}{{ .Site.Author.name | safeHTML }}{{ end }}</span>
-{{- end -}} &nbsp
+{{- end -}} &nbsp &nbsp 
+    <a href="/imprint"> Imprint </a> &nbsp 
+	<a href="/dpp"> Data Protection Policy </a> &nbsp &nbsp
+	</div>
+    <div class="hosted-by">	
     Hosted by &nbsp 
 	
 	<img src="/images/dkfz-logo.png" style="height:80px;vertical-align:center;margin-bottom:0px;padding:5px">
+	</div>
   </span>
 </div>
