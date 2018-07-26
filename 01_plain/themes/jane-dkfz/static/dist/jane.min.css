@@ -82,6 +82,9 @@ color:rgba(0,0,0,.84);background:#BFD1ED;scroll-behavior:smooth}@media screen an
 	width:100%}
 .header .logo-wrapper{float:left;padding-left:200px;/*position:fixed*/}
 .header .logo-wrapper .logo{font-size:36px;font-family:sans-serif,cursive}@media screen and (max-width:1080px){.header .logo-wrapper{display:none}}
+.header img{
+	height:40px
+}
 .header .site-navbar .menu{
 	float:right;
 	padding-right:200px;
