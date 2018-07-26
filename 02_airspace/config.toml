@@ -1,0 +1,77 @@
+title = "IPASC"
+baseURL = "https://www.example.com"
+languageCode = "en-us"
+theme = "airspace"
+
+[menu]
+  [[menu.header]]
+    weight = 2
+    name = "Consortium"
+    url = "/consortium"
+  [[menu.header]]
+    weight = 3
+    name = "Publications"
+    url = "/publications"
+  [[menu.header]]
+    weight = 4
+    name = "Contact"
+    url = "/contact"
+
+# The site's parameters
+[params]
+
+  # If you want to remove the copyright text you need a Themefisher license.
+  # This license is offered with a 50% discount for all Hugo users.
+  # For information see https://github.com/gohugoio/hugoThemes/issues/260
+
+  dateFormat = "6 January 2006"
+
+  home = "Home"
+
+  [params.wrapper]
+    enable = true
+    title = "Mission Statement"
+    italic = "Recommendations for standardized data exchange in photoacoustic imaging"
+    paragraph = "On behalf of the International Photoacoustic Standardisation Consortium (IPASC), we propose a standardized minimal set of metadata parameters and a standardized data format for photoacoustic imaging. Specifically, we recommend a standard HDF5 structure for raw time series data and metadata and the extension of the DICOM standard to support photoacoustic images in clinical applications. An international data standard for photoacoustics will be a first important step towards accelerated research by facilitating inter-group data exchange and inter-device comparability, and will thus form a foundation to integrate basic research with clinical translation of PAI."
+
+  [params.feature]
+    enable = true
+    title = "Comparability of clinical photoacoustic imaging systems"
+    content = "As a growing number of research groups exploit photoacoustic imaging (PAI), there is an increasing need to establish common standards for photoacoustic data and images in order to facilitate open access, use, and exchange of data between different groups. Our aim is to provide a platform that enables reserach groups and companies from all over the world to test their developed photoacoustic imaging modalities."
+    [params.feature.button]
+      caption = "View Publications"
+      url = "#"
+	  
+  [params.main]
+    enable = true
+    title = "International Photoacoustic Standardisation Consortium"
+    subtitle = " "
+    paragraph = " "
+
+  [params.call]
+    enable = true
+    title = " "
+    paragraph = " "
+	
+  [params.consortium]
+    enable = true
+    title = "Consortium Members"
+    subtitle = "Listing of all members of the consortium"
+
+  [params.contact]
+    enable = true
+    title = "Drop us a note"
+    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    [params.contact.form]
+      name = "Your name"
+      email = "Your email"
+      subject = "Your subject"
+      message = "Your message"
+      button = "Send message"
+    [params.contact.box]
+      title = "Stop by for a visit"
+      address = "North Main Street, Brooklyn Australia"
+      email = "Email: contact@mail.com"
+      phone = "Phone: +88 01672 506 744"
+    [params.contact.gmaps]
+      title = "We Also Count in Google Maps"
