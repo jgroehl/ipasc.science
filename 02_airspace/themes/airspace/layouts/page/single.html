@@ -6,6 +6,9 @@
 <body>
 
 	{{ partial "header.html" . }}
+	{{ $params := (dict "title" .Page.Title "subtitle" "")}}
+
+	{{ partial "global-header.html" $params }}
 	
 	{{ if isset .Params "id" }}
 		{{ partial .Params.id . }}

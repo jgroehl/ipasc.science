@@ -58,6 +58,16 @@ theme = "airspace"
     title = "Consortium Members"
     subtitle = "Listing of all members of the consortium"
 	
+  [params.imprint]
+    enable = true
+    title = "Imprint"
+    subtitle = ""
+	
+  [params.dpp]
+    enable = true
+    title = "Data Protection Policy"
+    subtitle = ""
+	
   [params.publications]
     enable = true
     title = "Publications"

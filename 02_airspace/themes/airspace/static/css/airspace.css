@@ -415,16 +415,16 @@ header .nav .navbar-nav .navbar-right li a:hover {
   text-align: center;
 }
 #global-header .block h1 {
-  font-weight: 100;
-  font-size: 45px;
+  font-weight: 400;
+  font-size: 50px;
   letter-spacing: 6px;
   padding-bottom: 15px;
   margin-top: 0;
   text-transform: capitalize;
 }
 #global-header .block p {
-  font-size: 16px;
-  font-weight: 300;
+  font-size: 20px;
+  font-weight: 400;
   letter-spacing: 1px;
   word-spacing: 3px;
 }
@@ -836,21 +836,17 @@ footer .footer-manu ul li a {
 footer .footer-manu ul li a:hover {
   color: #70393F;
 }
+.consortium-table table {
+	margin:2em;
+	position:relative;
+	left:20;
+}
 
-.portrait {
-	width:200px;
-	margin:1em;
-	display: inline-block;
+.consortium-table table tr th{
+	padding:10px;
 }
-.portrait img{
-	width:100%;
+
+.consortium-table table tr td{
+	padding:10px;
 }
-.portrait .name{
-	text-align:center;
-	font-size:100%;
-	font-weight: bold;
-}
-.portrait .affilitaion{
-	text-align:center;
-	font-size:75%;
-}
+	
