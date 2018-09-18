@@ -12,10 +12,6 @@ theme = "airspace"
     weight = 3
     name = "Publications"
     url = "/publications"
-  [[menu.header]]
-    weight = 4
-    name = "Contact"
-    url = "/contact"
 
 # The site's parameters
 [params]
@@ -31,8 +27,7 @@ theme = "airspace"
   [params.wrapper]
     enable = true
     title = "Mission Statement"
-    italic = "Recommendations for standardized data exchange in photoacoustic imaging"
-    paragraph = "On behalf of the International Photoacoustic Standardisation Consortium (IPASC), we propose a standardized minimal set of metadata parameters and a standardized data format for photoacoustic imaging. Specifically, we recommend a standard HDF5 structure for raw time series data and metadata and the extension of the DICOM standard to support photoacoustic images in clinical applications. An international data standard for photoacoustics will be a first important step towards accelerated research by facilitating inter-group data exchange and inter-device comparability, and will thus form a foundation to integrate basic research with clinical translation of PAI."
+    italic = "Goals of the International Photoacoustic Standardisation Consortium (IPASC)"
 
   [params.feature]
     enable = true
@@ -74,7 +69,7 @@ theme = "airspace"
     subtitle = "An overview over all IPASC publications"
 
   [params.contact]
-    enable = true
+    enable = false
     title = "Drop us a note"
     subtitle = "Don’t just take our word for it. Check out some of our latest work."
     [params.contact.form]
