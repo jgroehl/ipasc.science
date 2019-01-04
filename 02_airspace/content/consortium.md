@@ -2,6 +2,8 @@
 title = "IPASC Consortium"
 +++
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1Mav1UoEtwCbCrBqj-IDjgD6GE_GvD0hK&hl=en" width="100%" height="400"></iframe>
+
 ### Chairs
 ---
 <div class="consortium-table">
