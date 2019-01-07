@@ -1,8 +1,13 @@
 +++
 title = "IPASC Consortium"
 +++
+<div class="google-map">
+	<iframe src="https://www.google.com/maps/d/embed?mid=1Mav1UoEtwCbCrBqj-IDjgD6GE_GvD0hK&hl=en" width="100%" height="400"></iframe>
+</div>
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1Mav1UoEtwCbCrBqj-IDjgD6GE_GvD0hK&hl=en" width="100%" height="400"></iframe>
+</div>
+	<a href="../getinvolved/" class="btn-main">Get Involved</a>
+</div>
 
 ### Chairs
 ---
@@ -39,6 +44,7 @@ title = "IPASC Consortium"
 | Anna Pelagotti 		| Photonics Unit European Commission 				| Belgium 					|
 | Eno Hysi 				| Ryerson University 								| Canada 					|
 | Hisham Assi 			| Ryerson University 								| Canada 					|
+| Kun Wang			| CAS Key Laboratory of Molecular Imaging	| China 					|
 | Avihai Ron 			| Institute of Biological and Medical Imaging 		| Germany 					|
 | Daniel Razansky 		| Institute of Biological and Medical Imaging 		| Germany 					|
 | Thomas Kirchner 		| German Cancer Research Center (DKFZ) 				| Germany 					|
@@ -51,8 +57,9 @@ title = "IPASC Consortium"
 | Paolo Armanetti 		| University of Pisa 								| Italy 					|
 | Antonio Pifferi 		| Politecnico Milano 								| Italy 					|
 | Srirang Manohar 		| University of Twente 								| Netherlands 				|
-| Jan Klohs 			| ETH Zürich 										| Switzerland 				|
-| Ruiqing Ni 			| ETH Zürich 										| Switzerland 				|
+| Malini Olivo			|  Singapore Bioimaging Consortium (SBIC) | Singapore |
+| Jan Klohs 			| ETH Zürich 										| Switzerland |
+| Ruiqing Ni 			| ETH Zürich 										| Switzerland |
 | Sarah Bohndiek 		| University of Cambridge 							| United Kingdom 			|
 | James Joseph 			| University of Cambridge 							| United Kingdom 			|
 | Joanna Brunker 		| University of Cambridge 							| United Kingdom 			|
@@ -89,7 +96,7 @@ title = "IPASC Consortium"
 | Brian Clingman 				| Seno Medical 			| United States of America 	|
 | Steven Miller 				| Seno Medical 			| United States of America 	|
 | Lisa Richards 				| Seno Medical 			| United States of America 	|
-| Kuniyil Ajith Singh Mithun 	| PreXion Corporation 	| Japan						|
+| Kuniyil Ajith Singh Mithun 	| CYBERDYNE, INC.    	| Japan						|
 | Drew Heinmiller 				| VisualSonics 			| Canada					|
 | Jithin Jose 					| VisualSonics 			| Canada					|
 {{% /md %}}

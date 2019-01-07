@@ -1,5 +1,6 @@
 title = "IPASC"
 baseURL = "https://www.example.com"
+#baseURL = "http://www.jgroehl.com/ipasc/test/airspace/"
 languageCode = "en-us"
 theme = "airspace"
 
@@ -12,10 +13,10 @@ theme = "airspace"
     weight = 2
     name = "Get Involved"
     url = "/getinvolved"
-  [[menu.header]]
-    weight = 2
-    name = "Publications"
-    url = "/publications"
+#  [[menu.header]]
+#    weight = 2
+#    name = "Publications"
+#    url = "/publications"
 
 # The site's parameters
 [params]
@@ -38,8 +39,8 @@ theme = "airspace"
     title = "Comparability of clinical photoacoustic imaging systems"
     content = "As a growing number of research groups exploit photoacoustic imaging (PAI), there is an increasing need to establish common standards for photoacoustic data and images in order to facilitate open access, use, and exchange of data between different groups. Our aim is to provide a platform that enables reserach groups and companies from all over the world to test their developed photoacoustic imaging modalities."
     [params.feature.button]
-      caption = "View Publications"
-      url = "/publications"
+      caption = "Get Involved"
+      url = "/getinvolved"
 	  
   [params.main]
     enable = true
