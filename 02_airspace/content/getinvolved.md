@@ -28,10 +28,11 @@ title = "Get Involved"
 					 <label for="country"> <span>Country: </span><input class="input-field" type="text" name="country" value="" /></label>
 					 <label for="email"> <span>Email: </span><input class="input-field" type="text" name="email" value="" /></label>
 					 <input class="input-field" type="checkbox" name="can be published on website" value="Yes" />
-					 Please check this box if you agree that your title, first name, last name, affiliated institution, <br>
-					 and country can be published on the IPASC.science website. Your email address will not be published <br>
+					 Please check this box if you agree that your title, first name, last name, affiliated institution,
+					 and country can be published on the IPASC.science website. Your email address will not be published
 					 on the website and is just for being contacted by IPASC members.
 					 <br>
+           <br>
 					 <input type="submit" value="Send Email">
 				  </fieldset>
 			  </form>

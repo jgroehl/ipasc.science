@@ -890,6 +890,8 @@ footer .footer-manu ul li a:hover {
 
 .formdiv {
 	text-align: left;
+	min-width:100px;
+	width:50%;
 }
 
 .form-style label{
@@ -901,28 +903,22 @@ footer .footer-manu ul li a:hover {
 	color: #70393F;
 	width: 100px;
 	font-weight: bold;
-	font-size: 13px;
-	text-shadow: 1px 1px 1px #fff;
 }
 .form-style fieldset{
 	border-radius: 10px;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	margin: 0px 0px 10px 0px;
-	border: 1px solid #70393F;
 	padding: 20px;
 	display:inline;
-	background: #FFFCFC;
+	background: #fff;
 }
 .form-style fieldset legend{
 	color: #70393F;
-	border-top: 1px solid #70393F;
-	border-left: 1px solid #70393F;
-	border-right: 1px solid #70393F;
 	border-radius: 5px 5px 0px 0px;
 	-webkit-border-radius: 5px 5px 0px 0px;
 	-moz-border-radius: 5px 5px 0px 0px;
-	background: #FFFCFC;
+	background: #fff;
 	padding: 0px 8px 3px 8px;
 	font-weight: normal;
 }
@@ -944,11 +940,11 @@ footer .footer-manu ul li a:hover {
 	outline: none;
 	color: #70393F;
 	padding: 5px 8px 5px 8px;
-	background: #FFFCFC;
+	background: #FFF;
 }
 .form-style  input[type=submit],
 .form-style  input[type=button]{
-	background: #FFFCFC;
+	background: #FFF;
 	border: 1px solid #70393F;
 	padding: 5px 15px 5px 15px;
 	color: #70393F;
