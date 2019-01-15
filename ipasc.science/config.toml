@@ -33,15 +33,7 @@ theme = "airspace"
     enable = true
     title = "Mission Statement"
     italic = "Goals of the International Photoacoustic Standardisation Consortium (IPASC)"
-
-  [params.feature]
-    enable = true
-    title = "Comparability of clinical photoacoustic imaging systems"
-    content = "As a growing number of research groups exploit photoacoustic imaging (PAI), there is an increasing need to establish common standards for photoacoustic data and images in order to facilitate open access, use, and exchange of data between different groups. Our aim is to provide a platform that enables reserach groups and companies from all over the world to test their developed photoacoustic imaging modalities."
-    [params.feature.button]
-      caption = "Get Involved"
-      url = "/getinvolved"
-	  
+ 
   [params.main]
     enable = true
     title = "International Photoacoustic Standardisation Consortium"

@@ -11,7 +11,7 @@ title = "Get Involved"
       <h4> Get involved with IPASC </h4>
 		  There are two ways for you to get involved with IPASC: <br> <br>
 		  1) Fill out this form: <br>
-		  <a href="../get_involved_form.pdf" target="_blank"> <i class="fas fa-file fa-7x indent"></i></a>
+		  <a href="../get_involved_form.pdf" target="_blank"> <i class="fas fa-file fa-7x indent form-icon"></i></a>
 		  <br>
 		  and send it to <a href="mailto:seb53@cam.ac.uk"> Sarah Bohndiek </a>. 
 		  <br>   

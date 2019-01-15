@@ -175,6 +175,10 @@ px      68    160    252    */
     margin-top: 20px;
     margin-bottom: 20px;
   }
+
+  header .navbar-brand img {
+	 content:url("/logo/logo_final_small.png");   
+  }
   #slider {
     padding-top: 90px;
     padding-bottom: 100px;
@@ -211,12 +215,12 @@ px      68    160    252    */
     padding-bottom: 70px;
   }
   /*--
-	call-to-action Start 
+	background-image Start 
 --*/
-  #call-to-action p {
+  #background-image p {
     padding: 0px 0px 40px;
   }
-  #call-to-action .btn {
+  #background-image .btn {
     padding: 10px 20px;
     font-size: 15px;
   }
@@ -380,12 +384,6 @@ px      68    160    252    */
   /*---------------------------------------------
 					contact close 
 -----------------------------------------------*/
-  /*--
-	footer Start 
---*/
-  footer .footer-manu {
-    display: none;
-  }
 }
 /*		Wide Mobile Layout: 480px.
 		Gutters: 24px.

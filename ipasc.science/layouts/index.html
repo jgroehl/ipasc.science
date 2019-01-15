@@ -10,23 +10,20 @@
 	{{ partial "header.html" . }}
 	
 	{{ partial "global-header.html" .Site.Params.main }}
+	
+	<div class="index-content-background">
+	
+	<div id="index-content-container">
+		<div class="mission-container">
+			{{ partial "mission.html" . }}
+		</div>
+		<div class="news-container">
+			{{ partial "news.html" . }}
+		</div>
+	</div>
+	</div>
 
-
-	{{ if and (isset .Site.Params "slider") (.Site.Params.slider.enable) }}
-		{{ partial "slider.html" . }}
-	{{ end }}
-
-	{{ if and (isset .Site.Params "wrapper") (.Site.Params.wrapper.enable) }}
-		{{ partial "wrapper.html" . }}
-	{{ end }}
-
-	{{ if and (isset .Site.Params "feature") (.Site.Params.feature.enable) }}
-		{{ partial "feature.html" . }}
-	{{ end }}
-
-	{{ if and (isset .Site.Params "call") (.Site.Params.call.enable) }}
-		{{ partial "call-to-action.html" . }}
-	{{ end }}
+	{{ partial "background-image.html" . }}
 
 	{{ partial "footer.html" . }}
 
