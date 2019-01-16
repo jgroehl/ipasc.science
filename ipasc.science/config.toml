@@ -1,6 +1,6 @@
 title = "IPASC"
-baseURL = "https://www.example.com"
-#baseURL = "http://www.jgroehl.com/ipasc/test/airspace/"
+#baseURL = "https://www.example.com"
+baseURL = "http://www.jgroehl.com/ipasc/test/airspace/"
 languageCode = "en-us"
 theme = "airspace"
 

@@ -177,7 +177,7 @@ px      68    160    252    */
   }
 
   header .navbar-brand img {
-	 content:url("/logo/logo_final_small.png");   
+	 content:url("../logo/logo_final_small.png");   
   }
   #slider {
     padding-top: 90px;
