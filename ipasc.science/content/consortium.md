@@ -5,8 +5,8 @@ title = "IPASC Consortium"
 	<iframe src="https://www.google.com/maps/d/embed?mid=1Mav1UoEtwCbCrBqj-IDjgD6GE_GvD0hK&hl=en" width="100%" height="500"></iframe>
 </div>
 
-</div>
-	<a href="../getinvolved/" class="btn-main">Get Involved</a>
+<div class="btn btn-main">
+	<a href="../getinvolved/" >Get Involved</a>
 </div>
 
 ### Chairs

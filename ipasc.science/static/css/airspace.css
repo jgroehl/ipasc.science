@@ -368,13 +368,17 @@ footer .footer-manu ul li a:hover {
 }
 
 .btn-main {
-  background: #70393F;
-  color: #fff;
+  background: #70393F;  
+  display: inline-block;
   padding: 10px 20px;
-  margin-top: 30px;
+  margin: 10px 10px;
 }
 
-.btn-main:hover{
+.btn-main a{
+  color: #fff;
+}
+
+.btn-main a:hover{
   color: #aaa;
 }
 
@@ -467,15 +471,25 @@ footer .footer-manu ul li a:hover {
 .mission-container {
 	width:75%;
 	padding:0px 15px 15px 15px;
-	margin:0px 10px 0px 35px;
+	margin:0px 20px 0px 20px;
 	background-color:#fff;
 }
 
 .news-container {
 	width:25%;
 	padding:0px 15px 15px 15px;
-	margin:0px 35px 0px 10px;
+	margin:0px 20px 0px 20px;
 	background-color:#fff;
+}
+
+.news-container  h2 {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.news-container h4 {
+  margin-top: 15px;
+  margin-bottom: 20px;
 }
 
 #index-content-container {
@@ -522,5 +536,18 @@ footer .footer-manu ul li a:hover {
   color: #fff;
   padding: 10px 20px;
   margin-top: 30px;
+}
+
+.mission a:hover{
+  color: #aaa;
+}
+
+.news-item {
+	padding:5px 5px;
+	margin: 5px 0px;
+	border-style:solid;
+	border-width:2px;
+	border-color: #4C272B22;
+	border-radius: 5px;
 }
 	

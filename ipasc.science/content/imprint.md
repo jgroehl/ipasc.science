@@ -5,15 +5,19 @@ weight = 1
 +++
 
 <div class="imprint">
-	<h2>Provider</h2>
-	<p>TODO: Name
-	<br />
-	TODO Adress</p>
-	<p>TODO Phone
-	<br />
-	TODO Email<br />
-	</p>
-	<p>Responsible for the content:<br />TODO Name / Org</p>
+	<h2>This website is hosted by</h2><br />
+
+	Deutsches Krebsforschungszentrum (German Cancer Research Center, DKFZ) <br />
+	Im Neuenheimer Feld 280 <br />
+	69120 Heidelberg, Germany <br /><br />
+
+	<h2>Responsible for the content</h2><br />
+	Prof. Dr. Lena Maier-Hein<br />
+	Head of  Computer Assisted Medical Interventions (CAMI)<br />
+	German Cancer Research Center<br />
+	Im Neuenheimer Feld 280<br />
+	69120 Heidelberg, Germany<br /><br />
+	
 	<br /><h2>Disclaimer</h2><br />
 	<h3>§ 1 General</h3><br />
 	The free content provided on this website was created with greatest possible caution.
