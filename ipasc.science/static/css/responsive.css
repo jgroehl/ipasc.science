@@ -179,6 +179,14 @@ px      68    160    252    */
   header .navbar-brand img {
 	 content:url("../logo/logo_final_small.png");   
   }
+
+  #global-header .block h1 {
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: 3px;
+    word-spacing: 1px;
+  }
+	
   #slider {
     padding-top: 90px;
     padding-bottom: 100px;
@@ -249,6 +257,28 @@ px      68    160    252    */
   #features .features-img {
     text-align: center;
   }
+	
+  .mission-container {
+	width:93%;
+	padding:0px 15px 15px 15px;
+	margin: 0px 20px 0px 20px;
+	background-color:#fff;
+  }
+
+  .news-container {
+	width:93%;
+	padding:0px 15px 15px 15px;
+	margin:20px 20px 0px 20px;
+	background-color:#fff;
+  }
+	
+  #index-content-container {
+	width:100%;
+	position:relative;
+	display: flex;
+    flex-direction: column;
+  }
+	
   /*---------------------------------------------
 					Index Close 
 -----------------------------------------------*/
