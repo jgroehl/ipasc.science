@@ -1,6 +1,5 @@
 title = "IPASC"
-#baseURL = "https://www.example.com"
-baseURL = "http://www.jgroehl.com/ipasc/test/airspace/"
+baseURL = "http://www.ipasc.science"
 languageCode = "en-us"
 theme = "airspace"
 
@@ -20,10 +19,6 @@ theme = "airspace"
 
 # The site's parameters
 [params]
-
-  # If you want to remove the copyright text you need a Themefisher license.
-  # This license is offered with a 50% discount for all Hugo users.
-  # For information see https://github.com/gohugoio/hugoThemes/issues/260
 
   dateFormat = "6 January 2006"
 

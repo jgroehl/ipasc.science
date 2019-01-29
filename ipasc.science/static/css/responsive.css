@@ -172,12 +172,12 @@ px      68    160    252    */
     font-size: 13px;
   }
   header .navbar-default .navbar-toggle {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
   }
 
   header .navbar-brand img {
-	 content:url("../logo/logo_final_small.png");   
+	 content:url("../logo/logo_small.png");   
   }
 
   #global-header .block h1 {
