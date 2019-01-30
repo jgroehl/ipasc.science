@@ -5,11 +5,6 @@ weight = 1
 +++
 
 <div class="imprint">
-	<h2>This website is hosted by</h2><br />
-
-	Deutsches Krebsforschungszentrum (German Cancer Research Center, DKFZ) <br />
-	Im Neuenheimer Feld 280 <br />
-	69120 Heidelberg, Germany <br /><br />
 
 	<h2>Responsible for the content</h2><br />
 	Prof. Dr. Lena Maier-Hein<br />

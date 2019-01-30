@@ -175,10 +175,22 @@ px      68    160    252    */
     margin-top: 15px;
     margin-bottom: 15px;
   }
-
+	
   header .navbar-brand img {
-	 content:url("../logo/logo_small.png");   
+	content:url("../logo/logo_small.png");
   }
+	
+@-moz-document url-prefix() {
+  header .navbar-brand img {
+	  width:131px;
+	  height:60px;
+	  content:none;
+	  background:url("../logo/logo_small.png");
+	  background-size: 131px 60px;
+	  min-height:60px;
+	  min-width: 131px;
+  }
+}
 
   #global-header .block h1 {
     font-weight: 400;
