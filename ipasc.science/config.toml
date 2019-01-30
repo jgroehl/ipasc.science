@@ -1,7 +1,6 @@
 title = "IPASC"
-baseURL = "http://www.ipasc.science"
+baseURL = "http://www.ipasc.info/"
 languageCode = "en-us"
-theme = "airspace"
 
 [menu]
   [[menu.header]]
