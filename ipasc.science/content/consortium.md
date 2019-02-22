@@ -44,12 +44,14 @@ title = "IPASC Consortium"
 | Anna Pelagotti 		| Photonics Unit European Commission 				| Belgium 					|
 | Eno Hysi 				| Ryerson University 								| Canada 					|
 | Hisham Assi 			| Ryerson University 								| Canada 					|
+| Lawrence Yip				| Western University 								| Canada 					|
 | Kun Wang			| CAS Key Laboratory of Molecular Imaging	| China 					|
 | Avihai Ron 			| Institute of Biological and Medical Imaging 		| Germany 					|
 | Daniel Razansky 		| Institute of Biological and Medical Imaging 		| Germany 					|
 | Thomas Kirchner 		| German Cancer Research Center (DKFZ) 				| Germany 					|
 | Janek Gröhl 			| German Cancer Research Center (DKFZ) 				| Germany 					|
 | Lena Maier-Hein 		| German Cancer Research Center (DKFZ) 				| Germany 					|
+| Jan Laufer	| Martin-Luther-University Halle-Wittenberg 							| Germany 					|
 | Maximillian Waldner 	| University of Erlangen 							| Germany 					|
 | Julia Mannheim 		| Werner Siemens Imaging Center 					| Germany 					|
 | Lucia Cavigli 		| Consiglio Nazionale delle Ricerche (IFAC-CNR) 	| Italy 					|
@@ -75,7 +77,9 @@ title = "IPASC Consortium"
 | Paul Beard 			| University College London 						| United Kingdom 			|
 | Ben Cox 				| University College London 						| United Kingdom 			|
 | Lihong Wang 			| California Institute of Technology 				| United States of America 	|
+| Muyinatu Lediju Bell		| Johns Hopkins University 						| United States of America 	|
 | Richard Bouchard 		| MD Anderson Cancer Center 						| United States of America 	|
+| Srivalleesha Mallidi		| Tufts University 						| United States of America 	|
 | Kimberly Briggman 	| National Institute of Standards 					| United States of America 	|
 | Jeeseong Hwang 		| National Institute of Standards					| United States of America 	|
 | Marty Pagel 			| MD Anderson Cancer Center 						| United States of America 	|
@@ -96,7 +100,7 @@ title = "IPASC Consortium"
 | Brian Clingman 				| Seno Medical 			| United States of America 	|
 | Steven Miller 				| Seno Medical 			| United States of America 	|
 | Lisa Richards 				| Seno Medical 			| United States of America 	|
-| Kuniyil Ajith Singh Mithun 	| CYBERDYNE, INC.    	| Japan						|
+| Mithun Kuniyil Ajith Singh 	| CYBERDYNE, INC.    	| Japan						|
 | Drew Heinmiller 				| VisualSonics 			| Canada					|
 | Jithin Jose 					| VisualSonics 			| Canada					|
 {{% /md %}}
