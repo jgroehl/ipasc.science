@@ -1,5 +1,6 @@
 title = "IPASC"
-baseURL = "http://www.ipasc.science/"
+#baseURL = "http://www.ipasc.science/"
+baseURL = "http://www.ipasc-test.magix.net/test/"
 languageCode = "en-us"
 
 [menu]
