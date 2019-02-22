@@ -567,4 +567,13 @@ footer .footer-manu ul li a:hover {
 	border-color: #4C272B22;
 	border-radius: 5px;
 }
+
+.card {
+	display: inline-block;
+	text-align: center;
+	margin-left: 2%;
+	margin-right: 2%;
+	width: 20%;
+	vertical-align: top;
+}
 	
