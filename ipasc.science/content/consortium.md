@@ -46,6 +46,7 @@ title = "IPASC Consortium"
 | Hisham Assi 			| Ryerson University 								| Canada 					|
 | Lawrence Yip				| Western University 								| Canada 					|
 | Kun Wang			| CAS Key Laboratory of Molecular Imaging	| China 					|
+| Fei Gao | ShanghaiTech University | China |
 | Avihai Ron 			| Institute of Biological and Medical Imaging 		| Germany 					|
 | Daniel Razansky 		| Institute of Biological and Medical Imaging 		| Germany 					|
 | Thomas Kirchner 		| German Cancer Research Center (DKFZ) 				| Germany 					|
@@ -103,5 +104,11 @@ title = "IPASC Consortium"
 | Mithun Kuniyil Ajith Singh 	| CYBERDYNE, INC.    	| Japan						|
 | Drew Heinmiller 				| VisualSonics 			| Canada					|
 | Jithin Jose 					| VisualSonics 			| Canada					|
+|Sergey Ermilov | Photosound Technologies | United States of America  |
+|Peter Brecht | Photosound Technologies | United States of America  |
+|Mark Little | Photosound Technologies | United States of America  |
+|Watzl Georg | RECENDT Research Centre Non Destructive Testing | Austria|
+|Gregor Langer | RECENDT Research Centre Non Destructive Testing | Austria|
+|Alexander Oraevsky | Tomowave Labs Inc | United States of America  |
 {{% /md %}}
 </div>
