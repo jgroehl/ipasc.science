@@ -6,7 +6,16 @@ title = "Publications and Presentations"
 
 Here you can find a list of publications or the slides from conference talks that were held by the consortium.
 
-## SPIE Photonics West 2019
+## 2019
+
+### 
+<div class="card">
+	<a href="https://rdcu.be/byvad" target="_blank"> <i class="fas fa-file-text fa-5x indent form-icon"></i> </a>
+	<p> <b>Addressing photoacoustics standards</b></p> 
+	<p> Letter to the editor <br /> Nature Photonics</p>
+</div>
+
+### SPIE Photonics West
 <div class="card">
 	<a href="../presentations/2019-02-05_Overview presentation.pptx" target="_blank"> <i class="fas fa-file-powerpoint fa-5x indent form-icon"></i> </a>
 	<p> <b>Introductory talk</b></p> 
@@ -23,8 +32,8 @@ Here you can find a list of publications or the slides from conference talks tha
 	<p> Proposal for a joint data format with defined metadata. </p>
 </div>
 
-
-## SPIE Photonics West 2018
+## 2018
+### SPIE Photonics West 
 
 <div class="card">
 	<a href="../presentations/2018-01-InitialProposal.pptx" target="_blank"> <i class="fas fa-file-powerpoint fa-5x indent form-icon"></i></a>

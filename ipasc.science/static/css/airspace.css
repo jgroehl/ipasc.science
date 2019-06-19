@@ -576,4 +576,68 @@ footer .footer-manu ul li a:hover {
 	width: 20%;
 	vertical-align: top;
 }
+
+/** ***********************
+		HEXAGON
+************************** **/
+
+.hexagon {
+  position: relative;
+  width: 200px; 
+  height: 115.47px;
+  background-color: #ffffff;
+  margin: 77.74px 20px 47.74px 20px;
+  border-left: solid 2px #000000;
+  border-right: solid 2px #000000;
+  display:inline-block;
+}
+
+.hexagon:hover{
+  background-color: #D4B0BA;
+}
+
+.hexagon:before,
+.hexagon:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  width: 141.42px;
+  height: 141.42px;
+  -webkit-transform: scaleY(0.5774) rotate(-45deg);
+  -ms-transform: scaleY(0.5774) rotate(-45deg);
+  -moz-transform: scaleY(0.5774) rotate(-45deg);
+  -o-transform: scaleY(0.5774) rotate(-45deg);
+  transform: scaleY(0.5774) rotate(-45deg);
+  background-color: inherit;
+  left: 27.2893px;
+}
+
+.hexagon:before {
+  top: -70.7107px;
+  border-top: solid 2.8284px #000000;
+  border-right: solid 2.8284px #000000;
+}
+
+.hexagon:after {
+  bottom: -70.7107px;
+  border-bottom: solid 2.8284px #000000;
+  border-left: solid 2.8284px #000000;
+}
+.hexagon-text{
+    position: absolute;
+	top: -15px;
+	padding-left: 5px;
+	padding-right: 5px;
+    z-index: 1000;
+    width: 100%;
+    text-align: center;
+}
+
+.hexagon-text p{
+	font-size: 12px;
+}
+
+.hexagon-text h4{
+	font-size: 16px;
+}
 	
