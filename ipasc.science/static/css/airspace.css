@@ -625,7 +625,7 @@ footer .footer-manu ul li a:hover {
 }
 .hexagon-text{
     position: absolute;
-	top: -15px;
+	top: -5px;
 	padding-left: 5px;
 	padding-right: 5px;
     z-index: 1000;
@@ -635,6 +635,7 @@ footer .footer-manu ul li a:hover {
 
 .hexagon-text p{
 	font-size: 12px;
+	line-height:1.4;
 }
 
 .hexagon-text h4{
