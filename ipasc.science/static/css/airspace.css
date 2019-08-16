@@ -636,9 +636,11 @@ footer .footer-manu ul li a:hover {
 .hexagon-text p{
 	font-size: 12px;
 	line-height:1.4;
+	color: #000;
 }
 
 .hexagon-text h4{
 	font-size: 16px;
+	color: #70393F;
 }
 	

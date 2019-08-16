@@ -16,10 +16,10 @@ languageCode = "en-us"
     weight = 2
     name = "Publications"
     url = "/publications"
-  #[[menu.header]]
-  #  weight = 2
-  #  name = "Themes"
-  #  url = "/themes"
+#  [[menu.header]]
+#    weight = 2
+#    name = "Themes"
+#    url = "/themes"
 
 # The site's parameters
 [params]

@@ -9,29 +9,19 @@ title = "IPASC Consortium"
 	<a href="../getinvolved/" >Get Involved</a>
 </div>
 
-### Chairs
+### Leadership team
 ---
 <div class="consortium-table">
 {{% md %}}
-| 			| Name 				| Affiliation 						|
-| --- 		| ---- 				| ----------- 						|
-| Chair 	| Sarah Bohndiek 	| University of Cambridge 			|
-| Co-Chair 	| William Vogt 		| US Food and Drug Administration 	|
-{{% /md %}}
-</div>
-
-### Working group leads
----
-<div class="consortium-table">
-{{% md %}}
-| Theme								| Name 				| Affiliation 							|
-| --- 								| ---- 				| ----------- 							|
-| Phantom Development 				| Joanna Brunker  	| University of Cambridge 				|
-| Phantom Development 				| James Joseph 		| University of Cambridge 				|
-| Data Acquisition and Management 	| Lina Hacker 		| University of Cambridge 				|
-| Data Acquisition and Management 	| Janek Gröhl 		| German Cancer Research Center (DKFZ) 	|
-| Study Design 						| Sarah Bohndiek 	| University of Cambridge 				|
-| Study Design 						| William Vogt 		| US Food and Drug Administration 		|
+| 			| Theme								| Name 				| Affiliation 							|
+| --- 		| ----								| ---- 				| ----------- 							|
+| Chair 	| Study Design 						| Sarah Bohndiek 	| University of Cambridge 				|
+| Co-Chair 	| Study Design 						| William Vogt 		| US Food and Drug Administration 		|
+|			| Phantom Development 				| Joanna Brunker  	| University of Cambridge 				|
+|			| Phantom Development 				| James Joseph 		| University of Cambridge 				|
+|			| Data Acquisition and Management 	| Lina Hacker 		| University of Cambridge 				|
+|			| Data Acquisition and Management 	| Janek Gröhl 		| German Cancer Research Center (DKFZ) 	|
+|			| Data Acquisition and Management 	| Ben Cox	 		| University College London				|
 {{% /md %}}
 </div>
 
@@ -52,9 +42,13 @@ title = "IPASC Consortium"
 | Lin Huang				| University of Electronic Science and Technology of China	| China 					|
 | Avihai Ron 			| Institute of Biological and Medical Imaging 				| Germany 					|
 | Daniel Razansky 		| Institute of Biological and Medical Imaging 				| Germany 					|
+| Vasilis Ntziachristos | Technical University Munich (TUM)							| Germany					|
+| Dominik Jüstel		| Helmholtz Zentrum München									| Germany					|
 | Thomas Kirchner 		| German Cancer Research Center (DKFZ) 						| Germany 					|
 | Janek Gröhl 			| German Cancer Research Center (DKFZ) 						| Germany 					|
 | Lena Maier-Hein 		| German Cancer Research Center (DKFZ) 						| Germany 					|
+| Kris Dreher			| German Cancer Research Center (DKFZ) 						| Germany 					|
+| Melanie Schellenberg	| German Cancer Research Center (DKFZ) 						| Germany 					|
 | Jan Laufer			| Martin-Luther-University Halle-Wittenberg 				| Germany 					|
 | Andrea Markus			| Max Planck Institute for Experimental Medicine			| Germany					|
 | Maximillian Waldner 	| University of Erlangen 									| Germany 					|
@@ -70,6 +64,7 @@ title = "IPASC Consortium"
 | Antonio Pifferi 		| Politecnico Milano 										| Italy 					|
 | Srirang Manohar 		| University of Twente 										| Netherlands 				|
 | Maura Dantuma			| University of Twente										| Netherlands				|
+| Saskia Kruitwagen		| University of Twente										| Netherlands				|
 | Malini Olivo			| Singapore Bioimaging Consortium (SBIC)					| Singapore 				|
 | Jan Klohs 			| ETH Zürich 												| Switzerland 				|
 | Ruiqing Ni 			| ETH Zürich 												| Switzerland 				|
@@ -82,6 +77,7 @@ title = "IPASC Consortium"
 | Adrien Desjardins 	| University College London 								| United Kingdom 			|
 | Efthymios Maneas 		| University College London 								| United Kingdom 			|
 | Wenfeng Xia 			| University College London 								| United Kingdom 			|
+| Fang-Yu Lin			| University College London 								| United Kingdom 			|
 | Geoff Parker 			| University of Manchester 									| United Kingdom 			|
 | Srinath Rajagopal 	| National Physical Laboratory 								| United Kingdom 			|
 | Bajram Zeqiri 		| National Physical Laboratory 								| United Kingdom 			|
@@ -99,8 +95,11 @@ title = "IPASC Consortium"
 | Yun-Sheng Chen 		| University of Illinois Urbana-Champaign					| United States of America 	|
 | William Vogt 			| US Food and Drug Administration 							| United States of America 	|
 | Jesse Jokerst			| UC San Diego												| United States of America 	|
+| Ali Hariri			| UC San Diego												| United States of America 	|
 | Elena Petrova			| Baylor College of Medicine								| United States of America 	|
 | Mohammad Mehrmohammadi| Wayne State University									| United States of America 	|
+| Andrei Karpiouk		| Georgia Institute of Technology							| United States of America 	|
+| Mark Anastasio		| University of Illinois at Urbana-Champaign				| United States of America 	|
 
 {{% /md %}}
 </div>
@@ -119,10 +118,12 @@ title = "IPASC Consortium"
 | Stefan Morscher 				| iThera Medical 									| Germany					|
 | David Crozier 				| OPOTEK LLC										| United States of America	|
 | Sergey Ermilov 				| Photosound Technologies 							| United States of America  |
+| Weylan Thompson				| Photosound Technologies 							| United States of America  |
 | Peter Brecht 					| Photosound Technologies 							| United States of America  |
 | Mark Little 					| Photosound Technologies 							| United States of America  |
 | Watzl Georg 					| RECENDT Research Centre Non Destructive Testing 	| Austria					|
 | Gregor Langer 				| RECENDT Research Centre Non Destructive Testing 	| Austria					|
+| Thomas Berer	 				| RECENDT Research Centre Non Destructive Testing 	| Austria					|
 | Brian Clingman 				| Seno Medical 										| United States of America 	|
 | Steven Miller 				| Seno Medical 										| United States of America 	|
 | Lisa Richards 				| Seno Medical 										| United States of America 	|
