@@ -1,6 +1,5 @@
 title = "IPASC"
 baseURL = "https://www.ipasc.science/"
-#baseURL = "http://jgroehl.com/ipasc/test/"
 languageCode = "en-us"
 
 [menu]

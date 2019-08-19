@@ -14,13 +14,17 @@
 		{{ partial .Params.id . }}
 	{{ else }}
 		<main>
-		<div class="container">
-			<div class="row">
-			<div class="col-md-12">
-				{{ .Content }}
+			<div class="index-content-background">
+				<div class="main-container">
+					<div class="container">
+						<div class="row">
+						<div class="col-md-12">
+							{{ .Content }}
+						</div>
+						</div>
+					</div>
+				</div>
 			</div>
-			</div>
-		</div>
 		</main>
 	{{ end }}
 

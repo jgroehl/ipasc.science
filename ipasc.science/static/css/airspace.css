@@ -233,7 +233,7 @@ header .nav .navbar-nav .navbar-right li a:hover {
   background: url("../img/background.jpg") repeat;
   background-size: cover;
   background-attachment: fixed;
-  padding: 50px 0px;
+  padding: 30px 0px;
   position: relative;
   text-align: center;
   color: #fff;
@@ -260,8 +260,8 @@ header .nav .navbar-nav .navbar-right li a:hover {
 #global-header {
   background: url("../img/background.jpg") no-repeat;
   background-size: cover;
-  height:264px;
-  max-height: 264px;
+  height:160px;
+  max-height: 160px;
   position: relative;
   background-attachment: fixed;
 }
@@ -294,7 +294,7 @@ header .nav .navbar-nav .navbar-right li a:hover {
 }
 #global-header .block h1 {
   font-weight: 400;
-  font-size: 50px;
+  font-size: 45px;
   letter-spacing: 6px;
   word-spacing: 3px;
 }
@@ -337,8 +337,8 @@ header .nav .navbar-nav .navbar-right li a:hover {
 footer {
   background: #F5F5F5;
   text-align: center;
-  padding-top: 48px;
-  padding-bottom: 55px;
+  padding-top: 30px;
+  padding-bottom: 20px;
 }
 footer p {
   font-size: 14px;
@@ -484,6 +484,13 @@ footer .footer-manu ul li a:hover {
 /** **********************
  		   INDEX
 ********************** **/
+
+.main-container {
+	padding:15px 15px 15px 15px;
+	margin:0px 20px 0px 20px;
+	background-color:#fff;
+	position:relative;
+}
 
 .mission-container {
 	width:75%;
@@ -643,4 +650,20 @@ footer .footer-manu ul li a:hover {
 	font-size: 16px;
 	color: #70393F;
 }
-	
+
+/** ********************
+		NICE LISTS
+********************* **/
+
+.listing { width:80%; }
+.listing ol { font-style:italic; font-size:24px;  }
+.listing ol li { }
+.listing ol li p { padding:8px; font-style:normal; border-left: 1px solid #999; }
+.listing ol li p em { display:block; }
+
+.sublisting {
+	margin-left: 2em;
+	font-style:normal;
+	font-size:16px;
+	list-style-type: none;
+}	

@@ -16,6 +16,13 @@ px      68    160    252    344    436    528    620    712    */
   /*---------------------------------------------
 					Index Start 
 -----------------------------------------------*/
+	
+#global-header .block h1 {
+    font-weight: 400;
+    font-size: 35px;
+    letter-spacing: 3px;
+    word-spacing: 1px;
+  }
   /*--
 	wrapper Start 
 --*/

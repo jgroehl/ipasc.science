@@ -8,6 +8,7 @@ title = "IPASC Themes"
 <br />
 The IPASC efforts have been streamlined into three thematic areas: <b>Phantom Development</b>, <b>Data Acquisition and Management</b>, and <b>Study Design</b>. Each of these is in charge of advancing advancing specific goals of the IPASC efforts. If you are interested in the current progress of the themes or want to get in contact, you can click the theme icons below. <br />
 
+<center>
 <a class="hexagon" href="/theme-phantom-development">
   <div class="hexagon-text">
 	<h4>Phantom Development</h4>
@@ -28,7 +29,7 @@ The IPASC efforts have been streamlined into three thematic areas: <b>Phantom De
 	<p>Design multi-centre studies and resolve logistical challenges.</p>
   </div>
 </a>
-
+</center>
 
 
 </div>
