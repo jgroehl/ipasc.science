@@ -17,6 +17,12 @@ px      68    160    252    344    436    528    620    712    */
 					Index Start 
 -----------------------------------------------*/
 	
+	header .navbar-brand img {
+	content:url("../logo/logo_small.png");
+  }
+	
+	
+	
 #global-header .block h1 {
     font-weight: 400;
     font-size: 35px;
@@ -178,14 +184,21 @@ px      68    160    252    */
   p {
     font-size: 13px;
   }
+  header {
+	padding: 5px 0 10px 0;
+  }
   header .navbar-default .navbar-toggle {
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
 	
   header .navbar-brand img {
 	content:url("../logo/logo_small.png");
   }
+	
+  body {
+	 min-width:500px; 
+	}
 	
 @-moz-document url-prefix() {
   header .navbar-brand img {
