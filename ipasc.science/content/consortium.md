@@ -2,7 +2,7 @@
 title = "IPASC Consortium"
 +++
 <div class="google-map">
-	<iframe src="https://www.google.com/maps/d/embed?mid=1Mav1UoEtwCbCrBqj-IDjgD6GE_GvD0hK&hl=en" width="100%" height="500"></iframe>
+	<iframe src="https://www.google.com/maps/d/embed?mid=1Mav1UoEtwCbCrBqj-IDjgD6GE_GvD0hK&hl=en" width="95%" height="500"></iframe>
 </div>
 
 <div class="btn btn-main">
@@ -40,6 +40,7 @@ title = "IPASC Consortium"
 | Fei Gao 				| ShanghaiTech University 									| China 					|
 | Haoye Qin				| Beihang University										| China 					|
 | Lin Huang				| University of Electronic Science and Technology of China	| China 					|
+| Diego Dumani			| University of Costa Rica									| Costa Rica				|
 | Avihai Ron 			| Institute of Biological and Medical Imaging 				| Germany 					|
 | Daniel Razansky 		| Institute of Biological and Medical Imaging 				| Germany 					|
 | Vasilis Ntziachristos | Technical University Munich (TUM)							| Germany					|
@@ -84,6 +85,10 @@ title = "IPASC Consortium"
 | Aoife Ivory 			| National Physical Laboratory 								| United Kingdom 			|
 | Paul Beard 			| University College London 								| United Kingdom 			|
 | Ben Cox 				| University College London 								| United Kingdom 			|
+| Stephen Faulkner		| Inorganic Chemistry Laboratory, University of Oxford		| United Kingdom 			|
+| Bettina Wilm			| University of Liverpool									| United Kingdom 			|
+| Jack Sharkey			| University of Liverpool									| United Kingdom 			|
+| Harish Poptani		| University of Liverpool									| United Kingdom 			|
 | Lihong Wang 			| California Institute of Technology 						| United States of America 	|
 | Muyinatu Lediju Bell	| Johns Hopkins University 									| United States of America 	|
 | Richard Bouchard 		| MD Anderson Cancer Center 								| United States of America 	|

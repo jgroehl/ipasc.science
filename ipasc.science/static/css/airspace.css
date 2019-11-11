@@ -3,7 +3,7 @@
  * In airspace, it is called style.css
  * However, style.css now holds additional styles for this jekyll port. (Not written by ThemeFisher)
  * The original style.css is now called airspace.css
- * 
+ *
  */
 
 /*
@@ -381,7 +381,7 @@ footer .footer-manu ul li a:hover {
 }
 
 .btn-main {
-  background: #70393F;  
+  background: #70393F;
   display: inline-block;
   padding: 10px 20px;
   margin: 10px 10px;
@@ -438,7 +438,7 @@ footer .footer-manu ul li a:hover {
 .form-style input[type=time],
 .form-style input[type=url],
 .form-style input[type=email],
-.form-style select, 
+.form-style select,
 .form-style textarea{
 	border-radius: 3px;
 	-webkit-border-radius: 3px;
@@ -458,7 +458,7 @@ footer .footer-manu ul li a:hover {
 	border-radius: 3px;
 	border-radius: 3px;
 	-webkit-border-radius: 3px;
-	-moz-border-radius: 3px;	
+	-moz-border-radius: 3px;
 	font-weight: bold;
 }
 .required{
@@ -467,7 +467,7 @@ footer .footer-manu ul li a:hover {
 }
 
 .indent{
-  margin:10px 0px 10px 20px;	
+  margin:10px 0px 10px 20px;
 }
 
 .form-icon {
@@ -524,7 +524,7 @@ footer .footer-manu ul li a:hover {
 	position:relative;
 	background: url("../img/background.jpg") no-repeat;
 	background-size: cover;
-	background-attachment: fixed;	
+	background-attachment: fixed;
 }
 
 .index-content-background:before {
@@ -577,20 +577,24 @@ footer .footer-manu ul li a:hover {
 	margin-left: 2%;
 	margin-right: 2%;
 	width: 20%;
+	min-width: 150px;
+	max-width: 200px;
 	vertical-align: top;
 }
 
 .card .title {
 	font-weight: bolder;
+	line-height: 1.5em;
 }
 
 .card .publisher {
 	font-weight: lighter;
 	font-style: italic;
+	line-height: 1.5em;
 }
 
 .card .description {
-	line-height: 1.5em;	
+	line-height: 1.3em;
 }
 
 /** ***********************
@@ -599,7 +603,7 @@ footer .footer-manu ul li a:hover {
 
 .hexagon {
   position: relative;
-  width: 200px; 
+  width: 200px;
   height: 115.47px;
   background-color: #ffffff;
   margin: 77.74px 20px 47.74px 20px;
@@ -675,4 +679,4 @@ footer .footer-manu ul li a:hover {
 	font-style:normal;
 	font-size:16px;
 	list-style-type: none;
-}	
+}

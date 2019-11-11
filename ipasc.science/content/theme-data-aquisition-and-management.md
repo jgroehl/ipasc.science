@@ -9,8 +9,9 @@ subtitle = "Test"
 {{% md %}}
 | Name 						| Affiliation 							|
 | ----------- 				| ----------- 							|
-| Lina Hacker 				| University of Cambridge 				|
+| Ben Cox					| University College London				|
 | Janek Gröhl 				| German Cancer Research Center (DKFZ) 	|
+| Lina Hacker 				| University of Cambridge 				|
 {{% /md %}}
 </div>
 
@@ -19,7 +20,7 @@ subtitle = "Test"
 Our overarching goal is to enable intercomparison of photoacoustic imaging (PAI) data between different users (scientific groups / industries). To achieve this goal the Data Acquisition and Management (DAM) theme is conducting work towards three main goals:
 
 <center>
-<img src="../img/2019_dam_goals.png" width="300px" > </img>
+<img src="../img/2019_dam_goals.png" width="200px" > </img>
 </center>
 
 Goal 1 is to define an essential list of metadata to fully characterise the format of PAI data acquired from commercial and custom-built PAI instruments and to transfer the device-specific data of instruments within the consortium to an open access database. Goal 2 is to implement an open source tool that enables conversion to the prior agreed standardized data format (HDF5). Goal 3 is to provide an open-access platform for PA reference data that can be used for comparison of processing algorithms etc.
