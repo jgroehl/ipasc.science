@@ -35,13 +35,16 @@ title = "IPASC Consortium"
 | Anna Pelagotti 		| Photonics Unit European Commission 						| Belgium 					|
 | Eno Hysi 				| Ryerson University 										| Canada 					|
 | Hisham Assi 			| Ryerson University 										| Canada 					|
+| Elina Rascevska		| The University of Western Ontario							| Canada					|
 | Lawrence Yip			| Western University 										| Canada 					|
 | Kun Wang				| CAS Key Laboratory of Molecular Imaging					| China 					|
 | Fei Gao 				| ShanghaiTech University 									| China 					|
 | Haoye Qin				| Beihang University										| China 					|
 | Lin Huang				| University of Electronic Science and Technology of China	| China 					|
 | Diego Dumani			| University of Costa Rica									| Costa Rica				|
+| Juan Aguirre 			| Institute of Biological and Medical Imaging 				| Germany 					|
 | Avihai Ron 			| Institute of Biological and Medical Imaging 				| Germany 					|
+| Markus Seeger 		| Institute of Biological and Medical Imaging 				| Germany 					|
 | Daniel Razansky 		| Institute of Biological and Medical Imaging 				| Germany 					|
 | Vasilis Ntziachristos | Technical University Munich (TUM)							| Germany					|
 | Dominik Jüstel		| Helmholtz Zentrum München									| Germany					|
@@ -53,9 +56,11 @@ title = "IPASC Consortium"
 | Jan Laufer			| Martin-Luther-University Halle-Wittenberg 				| Germany 					|
 | Andrea Markus			| Max Planck Institute for Experimental Medicine			| Germany					|
 | Maximillian Waldner 	| University of Erlangen 									| Germany 					|
+| Heidrun Wabnitz		| Physikalisch-Technische Bundesanstalt (PTB)				| Germany					|
 | Julia Mannheim 		| Werner Siemens Imaging Center 							| Germany 					|
 | Moritz Wildgruber		| WDU Münster												| Germany					|
 | François Varray		| University of Lyon										| France					|
+| Suhesh Kumar Singh	| IISER Thiruvananthapuram									| India						|
 | Lucia Cavigli 		| Consiglio Nazionale delle Ricerche (IFAC-CNR) 			| Italy 					|
 | Martina Capozza		| University of Torino										| Italy						|
 | Dario Longo			| University of Torino										| Italy						|
@@ -67,6 +72,12 @@ title = "IPASC Consortium"
 | Maura Dantuma			| University of Twente										| Netherlands				|
 | Saskia Kruitwagen		| University of Twente										| Netherlands				|
 | Malini Olivo			| Singapore Bioimaging Consortium (SBIC)					| Singapore 				|
+| Magnus Cinthio		| Lund University											| Sweden					|
+| Nina Reistad			| Lund University											| Sweden					|
+| Tobias Erlöv			| Lund University											| Sweden					|
+| Rafi Sheikh			| Lund University											| Sweden					|
+| John Albinsson		| Lund University											| Sweden					|
+| Aboma Merdasa			| Lund University											| Sweden					|
 | Jan Klohs 			| ETH Zürich 												| Switzerland 				|
 | Ruiqing Ni 			| ETH Zürich 												| Switzerland 				|
 | Sarah Bohndiek 		| University of Cambridge 									| United Kingdom 			|
@@ -79,6 +90,7 @@ title = "IPASC Consortium"
 | Efthymios Maneas 		| University College London 								| United Kingdom 			|
 | Wenfeng Xia 			| University College London 								| United Kingdom 			|
 | Fang-Yu Lin			| University College London 								| United Kingdom 			|
+| Eleanor Mackle		| University College London 								| United Kingdom 			|
 | Geoff Parker 			| University of Manchester 									| United Kingdom 			|
 | Srinath Rajagopal 	| National Physical Laboratory 								| United Kingdom 			|
 | Bajram Zeqiri 		| National Physical Laboratory 								| United Kingdom 			|
@@ -86,9 +98,13 @@ title = "IPASC Consortium"
 | Paul Beard 			| University College London 								| United Kingdom 			|
 | Ben Cox 				| University College London 								| United Kingdom 			|
 | Stephen Faulkner		| Inorganic Chemistry Laboratory, University of Oxford		| United Kingdom 			|
+| Raphael Levy			| University of Liverpool									| United Kingdom 			|
 | Bettina Wilm			| University of Liverpool									| United Kingdom 			|
 | Jack Sharkey			| University of Liverpool									| United Kingdom 			|
+| Antonius Plagge		| University of Liverpool									| United Kingdom 			|
 | Harish Poptani		| University of Liverpool									| United Kingdom 			|
+| Jason Raymond			| University of Oxford										| United Kingdom 			|
+| James McLaughlan		| University of Leeds										| United Kingdom 			|
 | Lihong Wang 			| California Institute of Technology 						| United States of America 	|
 | Muyinatu Lediju Bell	| Johns Hopkins University 									| United States of America 	|
 | Richard Bouchard 		| MD Anderson Cancer Center 								| United States of America 	|
