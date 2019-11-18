@@ -13,7 +13,7 @@ title = "Get Involved"
 		  1) Fill out this form: <br>
 		  <a href="../get_involved_form.pdf" target="_blank"> <i class="fas fa-file fa-7x indent form-icon"></i></a>
 		  <br>
-		  and send it to <a href="mailto:seb53@cam.ac.uk?subject=[IPASC]%20Get%20involved%20with%20IPASC&cc=j.groehl@dkfz-heidelberg.de;lina.hacker@cruk.cam.ac.uk"> Sarah Bohndiek </a>. 
+		  and send it to <a href="mailto:seb53@cam.ac.uk?subject=[IPASC]%20Get%20involved%20with%20IPASC&cc=j.groehl@dkfz-heidelberg.de;lina.hacker@cruk.cam.ac.uk"> &lt;the leadership team&gt; </a>. 
 		  <br>   
 		  <br>
 		  2) You can use also the following online form to send us an email with your information: <br><br>
