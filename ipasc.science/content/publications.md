@@ -7,6 +7,20 @@ title = "Publications"
 ### 2019
 
 <div class="card">
+	<a href="/documents/20191210_Terms_Definitions_For_PAT.pdf" target="_blank"> <i class="fas fa-file-pdf fa-4x indent form-icon"></i> </a>
+	<a href="/documents/20191210_Terms_Definitions_For_PAT_Consensus_Result.pdf" target="_blank"> <i class="fas fa-chart-pie fa-4x indent form-icon"></i> </a>
+	<p class="title"> Terms and Definitions</p>
+	<p class="consensuslabel"> For Consultation and Feedback</p>
+	<p class="description"> A list of useful terms and definitions when dealing with photoacoustic imaging</p>
+	<p class="publisher"> IPASC </p>
+</div>
+<div class="card">
+	<a href="/publications-first-annual-ipasc-meeting/"> <i class="fas fa-folder-open fa-5x indent form-icon"></i> </a>
+	<p class="title"> 1st Annual IPASC Meeting </p>
+	<p class="description"> Collection of presentations and an overview over the results of the discussions</p>
+	<p class="publisher"> IPASC </p>
+</div>
+<div class="card">
 	<a href="/documents/IPASC_Consensus_Workflow_2019_09.pdf" target="_blank"> <i class="fas fa-file-pdf fa-5x indent form-icon"></i> </a>
 	<p class="title"> Consensus Workflow</p>
 	<p class="description"> Detailed description of the IPASC consensus workflow</p>
@@ -19,12 +33,6 @@ title = "Publications"
 	<p class="publisher"> Nature Photonics</p>
 </div>
 <div class="card">
-	<a href="/presentations/2019-02-05_Overview presentation.pptx" target="_blank"> <i class="fas fa-file-powerpoint fa-5x indent form-icon"></i> </a>
-	<p class="title"> Introductory talk</p>
-	<p class="description"> Overview over IPASC and the mission of the consortium. </p>
-	<p class="publisher">SPIE Photonics West</p>
-</div>
-<div class="card">
 	<a href="/presentations/2019-02-05_Presentation-WG1.pptx" target="_blank"> <i class="fas fa-file-powerpoint fa-5x indent form-icon"></i></a>
 	<p class="title"> Phantom Design</p>
 	<p class="description"> Choice of phantom materials and intial test study. </p>
@@ -34,6 +42,12 @@ title = "Publications"
 	<a href="/presentations/2019-02-05_Presentation-WG4.pptx" target="_blank"> <i class="fas fa-file-powerpoint fa-5x indent form-icon"></i></a>
 	<p class="title"> Data management</p>
 	<p class="description"> Proposal for a joint data format with defined metadata. </p>
+	<p class="publisher">SPIE Photonics West</p>
+</div>
+<div class="card">
+	<a href="/presentations/2019-02-05_Overview presentation.pptx" target="_blank"> <i class="fas fa-file-powerpoint fa-5x indent form-icon"></i> </a>
+	<p class="title"> Introductory talk</p>
+	<p class="description"> Overview over IPASC and the mission of the consortium. </p>
 	<p class="publisher">SPIE Photonics West</p>
 </div>
 
@@ -49,4 +63,5 @@ title = "Publications"
 <br />
 Legend: <i class="fas fa-file-pdf fa-1x indent form-icon"></i> = IPASC consensus document;
 <i class="fas fa-file-text fa-1x indent form-icon"></i> = Publication (e.g. in journal);
-<i class="fas fa-file-powerpoint fa-1x indent form-icon"></i> = Presentation (e.g. from conference)
+<i class="fas fa-file-powerpoint fa-1x indent form-icon"></i> = Presentation (e.g. from conference);
+<i class="fas fa-folder-open fa-1x indent form-icon"></i> = Collection of documents (e.g. from larger meetings)

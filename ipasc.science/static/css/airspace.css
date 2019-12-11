@@ -584,17 +584,23 @@ footer .footer-manu ul li a:hover {
 
 .card .title {
 	font-weight: bolder;
-	line-height: 1.5em;
+	line-height: 1.3em;
 }
 
 .card .publisher {
 	font-weight: lighter;
 	font-style: italic;
-	line-height: 1.5em;
+	line-height: 1.3em;
 }
 
 .card .description {
 	line-height: 1.3em;
+}
+
+.card .consensuslabel {
+	color: red;
+	line-height: 1em;
+	font-size: 13px;
 }
 
 /** ***********************
