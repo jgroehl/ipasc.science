@@ -65,3 +65,6 @@ languageCode = "en-us"
 
   [params.contact]
     enable = false
+
+  [markup.goldmark.renderer]
+	unsafe= true
