@@ -4,6 +4,17 @@ title = "Publications"
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
+### 2020
+
+<div class="card">
+	<a href="/documents/20200121_Metadata_list.pdf" target="_blank"> <i class="fas fa-file-pdf fa-4x indent form-icon"></i> </a>
+	<a href="/documents/20200121_Metadata_List_Consensus_Result.pdf" target="_blank"> <i class="fas fa-chart-pie fa-4x indent form-icon"></i> </a>
+	<p class="title"> Standard Metadata Parameters</p>
+	<p class="consensuslabel"> For Consultation and Feedback</p>
+	<p class="description"> List of PAI metadata parameters to enable description, interoperability, and exchange of data</p>
+	<p class="publisher"> IPASC </p>
+</div>
+
 ### 2019
 
 <div class="card">
