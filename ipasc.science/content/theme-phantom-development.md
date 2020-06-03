@@ -9,7 +9,8 @@ title = "IPASC Thematic Area: Phantom Development"
 | Name 						| Affiliation 							|
 | ----------- 				| ----------- 							|
 | James Joseph				| University of Cambridge			 	|
-| Stefan Morscher			| University of Cambridge 				|
+| Stefan Morscher			| iThera Medical		 				|
+
 {{% /md %}}
 </div>
 

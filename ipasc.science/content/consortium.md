@@ -84,6 +84,8 @@ title = "IPASC Consortium"
 | Aboma Merdasa			| Lund University											| Sweden					|
 | Jan Klohs 			| ETH Zürich 												| Switzerland 				|
 | Ruiqing Ni 			| ETH Zürich 												| Switzerland 				|
+| Berkan Lafci			| ETH Zürich 												| Switzerland 				|
+| Mehmet Yilmaz			| Bilkent University UNAM									| Turkey					|
 | Sarah Bohndiek 		| University of Cambridge 									| United Kingdom 			|
 | James Joseph 			| University of Cambridge 									| United Kingdom 			|
 | Joanna Brunker 		| University of Cambridge 									| United Kingdom 			|
@@ -140,6 +142,7 @@ title = "IPASC Consortium"
 | Mithun Kuniyil Ajith Singh 	| CYBERDYNE, INC.    								| Japan						|
 | Naoto Sato				 	| CYBERDYNE, INC.    								| Japan						|
 | Mantvydas Jasinskas			| Ekspla											| Lithuania					|
+| Christian Menhard				| InnoLas Laser GmbH								| Germany					|
 | Stefan Morscher 				| iThera Medical 									| Germany					|
 | David Crozier 				| OPOTEK LLC										| United States of America	|
 | Sergey Ermilov 				| Photosound Technologies 							| United States of America  |
