@@ -5,13 +5,13 @@ title = "IPASC Industry Board"
 
 ## Industry Board:
 
-The industry board was founded in 2019 under the umbrella of the IPASC consortium. It represents the industry's specific interests in the context of standardization and consists of vendors of photoacoustic imaging equipment or components. It's purpose is to drive aspects of standardization that are specifically relevant to members of industry, but to lesser or no interest to the scientific community.
+The industry board was founded in 2019 under the umbrella of the IPASC consortium. It represents the industry's specific interests in the context of standardization and consists of vendors of photoacoustic imaging equipment or components. Its purpose is to drive aspects of standardization that are specifically relevant to members of industry, but to lesser or no interest to the scientific community.
 
 The industry board is represented in the Consortium Leadership Team by its chair. The Industry Board convenes in online meetings at least twice a year, and meeting protocols are provided at the end of the page. Board members as well as work-items and related decisions are documented in the sections below. The mode of operation is detailed in the Industry Board Statute:
 
-<a href="https://drive.google.com/file/d/1UOGsd4AvhRLlTdr-EgVmlZA1NRaVaHqJ/view?usp=sharing" target="_blank"> 
+<a href="https://drive.google.com/file/d/1UOGsd4AvhRLlTdr-EgVmlZA1NRaVaHqJ/view?usp=sharing" target="_blank">
 	<i class="fas fa-file-pdf fa-2x indent form-icon"></i>
-	Industry Board Statue (as of 2020-05-06) </a>
+	Industry Board Statute (as of 2020-05-06) </a>
 
 ## Board Members
 
