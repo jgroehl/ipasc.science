@@ -8,8 +8,8 @@ title = "IPASC Thematic Area: Phantom Development"
 {{% md %}}
 | Name 						| Affiliation 							|
 | ----------- 				| ----------- 							|
-| Joanna Brunker			| University of Cambridge 				|
 | James Joseph				| University of Cambridge			 	|
+| Stefan Morscher			| University of Cambridge 				|
 {{% /md %}}
 </div>
 

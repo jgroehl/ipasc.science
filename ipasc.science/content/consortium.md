@@ -9,6 +9,8 @@ title = "IPASC Consortium"
 	<a href="../getinvolved/" >Get Involved</a>
 </div>
 
+<br />
+
 ### Leadership team
 ---
 <div class="consortium-table">
@@ -17,13 +19,15 @@ title = "IPASC Consortium"
 | --- 		| ----								| ---- 				| ----------- 							|
 | Chair 	| Study Design 						| Sarah Bohndiek 	| University of Cambridge 				|
 | Co-Chair 	| Study Design 						| William Vogt 		| US Food and Drug Administration 		|
-|			| Phantom Development 				| Joanna Brunker  	| University of Cambridge 				|
 |			| Phantom Development 				| James Joseph 		| University of Cambridge 				|
+|			| Phantom Development 				| Stefan Morscher  	| iThera Medical 				|
 |			| Data Acquisition and Management 	| Lina Hacker 		| University of Cambridge 				|
 |			| Data Acquisition and Management 	| Janek Gröhl 		| German Cancer Research Center (DKFZ) 	|
 |			| Data Acquisition and Management 	| Ben Cox	 		| University College London				|
 {{% /md %}}
 </div>
+
+<br />
 
 ### Academic Consortium Members
 ---
