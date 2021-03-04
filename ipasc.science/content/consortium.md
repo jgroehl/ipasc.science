@@ -37,6 +37,7 @@ title = "IPASC Consortium"
 | ---- 					| ----------- 												| ------- 					|
 | Thomas Berer 			| Research Centre Non Destructive Testing (RECENDT)			| Austria 					|
 | Anna Pelagotti 		| Photonics Unit European Commission 						| Belgium 					|
+| Theo Pavan 		| University of Sao Paulo 						| Brazil 					|
 | Eno Hysi 				| Ryerson University 										| Canada 					|
 | Hisham Assi 			| Ryerson University 										| Canada 					|
 | Elina Rascevska		| The University of Western Ontario							| Canada					|
@@ -44,7 +45,9 @@ title = "IPASC Consortium"
 | Kun Wang				| CAS Key Laboratory of Molecular Imaging					| China 					|
 | Fei Gao 				| ShanghaiTech University 									| China 					|
 | Haoye Qin				| Beihang University										| China 					|
+| Junhui Shi				| Zhejiang Lab										| China 					|
 | Lin Huang				| University of Electronic Science and Technology of China	| China 					|
+| Meng Yang				| Peking Union Medical College Hospital										| China 					|
 | Diego Dumani			| University of Costa Rica									| Costa Rica				|
 | Juan Aguirre 			| Institute of Biological and Medical Imaging 				| Germany 					|
 | Avihai Ron 			| Institute of Biological and Medical Imaging 				| Germany 					|
@@ -63,18 +66,26 @@ title = "IPASC Consortium"
 | Heidrun Wabnitz		| Physikalisch-Technische Bundesanstalt (PTB)				| Germany					|
 | Julia Mannheim 		| Werner Siemens Imaging Center 							| Germany 					|
 | Moritz Wildgruber		| WDU Münster												| Germany					|
+| Callum Zgierski-Johnston		| University Heart Centre Freiburg-Bad Krozingen												| Germany					|
+| Tobias Schuler	| Institute for Experimental Cardiovascular Medicine, University Heart Center Freiburg											| Germany					|
+| Andreas Hauptmann		| University of Oulu										| Finland					|
+| Igor Meglinski		| University of Oulu										| Finland					|
 | François Varray		| University of Lyon										| France					|
 | Suhesh Kumar Singh	| IISER Thiruvananthapuram									| India						|
 | Lucia Cavigli 		| Consiglio Nazionale delle Ricerche (IFAC-CNR) 			| Italy 					|
 | Martina Capozza		| University of Torino										| Italy						|
 | Dario Longo			| University of Torino										| Italy						|
+| Giuseppe Ferrauto			| University of Torino										| Italy						|
 | Luca Menichetti 		| Italian National Research Council 						| Italy 					|
 | Massimo Mariello		| Italian Institute of Technology (IIT)						| Italy						|
 | Paolo Armanetti 		| University of Pisa 										| Italy 					|
 | Antonio Pifferi 		| Politecnico Milano 										| Italy 					|
+| Amir Rosenthal		| Technion - Israel Institute of Technology 										| Israel 					|
+| Vyacheslav Kalchenko		| Weizmann Institute of Science 										| Israel 					|
 | Srirang Manohar 		| University of Twente 										| Netherlands 				|
 | Maura Dantuma			| University of Twente										| Netherlands				|
 | Saskia Kruitwagen		| University of Twente										| Netherlands				|
+| Rianne Bulthuis		| University of Twente										| Netherlands				|
 | Malini Olivo			| Singapore Bioimaging Consortium (SBIC)					| Singapore 				|
 | Magnus Cinthio		| Lund University											| Sweden					|
 | Nina Reistad			| Lund University											| Sweden					|
@@ -97,6 +108,7 @@ title = "IPASC Consortium"
 | Wenfeng Xia 			| University College London 								| United Kingdom 			|
 | Fang-Yu Lin			| University College London 								| United Kingdom 			|
 | Eleanor Mackle		| University College London 								| United Kingdom 			|
+| Thomas Allen		| University College London 								| United Kingdom 			|
 | Geoff Parker 			| University of Manchester 									| United Kingdom 			|
 | Srinath Rajagopal 	| National Physical Laboratory 								| United Kingdom 			|
 | Bajram Zeqiri 		| National Physical Laboratory 								| United Kingdom 			|
@@ -111,6 +123,8 @@ title = "IPASC Consortium"
 | Harish Poptani		| University of Liverpool									| United Kingdom 			|
 | Jason Raymond			| University of Oxford										| United Kingdom 			|
 | James McLaughlan		| University of Leeds										| United Kingdom 			|
+| Steven Freear		| University of Leeds										| United Kingdom 			|
+| Kevin Critchley	| University of Leeds										| United Kingdom 			|
 | Lihong Wang 			| California Institute of Technology 						| United States of America 	|
 | Muyinatu Lediju Bell	| Johns Hopkins University 									| United States of America 	|
 | Richard Bouchard 		| MD Anderson Cancer Center 								| United States of America 	|
@@ -118,10 +132,14 @@ title = "IPASC Consortium"
 | Kimberly Briggman 	| National Institute of Standards 							| United States of America 	|
 | Jeeseong Hwang 		| National Institute of Standards							| United States of America 	|
 | Marty Pagel 			| MD Anderson Cancer Center 								| United States of America 	|
+| Shreya Goel			| MD Anderson Cancer Center 								| United States of America 	|
 | Lacey McNally 		| Virginia Tech Wake Forest University 						| United States of America 	|
 | Yun-Sheng Chen 		| University of Illinois Urbana-Champaign					| United States of America 	|
+| Kamran Avanaki 		| The University of Illinois at Chicago					| United States of America 	|
 | William Vogt 			| US Food and Drug Administration 							| United States of America 	|
+| Joshua Pfefer			| US Food and Drug Administration 							| United States of America 	|
 | Jesse Jokerst			| UC San Diego												| United States of America 	|
+| Jorge Palma Chavez		| UC San Diego												| United States of America 	|
 | Ali Hariri			| UC San Diego												| United States of America 	|
 | Elena Petrova			| Baylor College of Medicine								| United States of America 	|
 | Mohammad Mehrmohammadi| Wayne State University									| United States of America 	|
@@ -138,7 +156,10 @@ title = "IPASC Consortium"
 | Name 							| Company 											| Country 					|
 | ---- 							| ----------- 										| ---						|
 | Sarah Lee						| Amallis Consulting								| UK						|
+| Sanathana Konugolu Venkata Sekar					| BioPixS -  BioPhotonics Standards								| Ireland						|
 | Yoko Okamura 					| Canon 											| Japan						|
+| James Norby 					| Continuum Amplitude 											| United States of America						|
+| Sockalingam Sivashanker 					| Continuum Amplitude 											| United States of America						|
 | Mithun Kuniyil Ajith Singh 	| CYBERDYNE, INC.    								| Japan						|
 | Naoto Sato				 	| CYBERDYNE, INC.    								| Japan						|
 | Mantvydas Jasinskas			| Ekspla											| Lithuania					|
@@ -148,14 +169,17 @@ title = "IPASC Consortium"
 | Sergey Ermilov 				| Photosound Technologies 							| United States of America  |
 | Weylan Thompson				| Photosound Technologies 							| United States of America  |
 | Peter Brecht 					| Photosound Technologies 							| United States of America  |
+| Vassili Ivanov					| Photosound Technologies 							| United States of America  |
 | Mark Little 					| Photosound Technologies 							| United States of America  |
 | Watzl Georg 					| RECENDT Research Centre Non Destructive Testing 	| Austria					|
 | Gregor Langer 				| RECENDT Research Centre Non Destructive Testing 	| Austria					|
 | Thomas Berer	 				| RECENDT Research Centre Non Destructive Testing 	| Austria					|
+| Scott Rowe	 				| Rowe Technical Design, Inc. 	| United States of America					|
 | Brian Clingman 				| Seno Medical 										| United States of America 	|
 | Steven Miller 				| Seno Medical 										| United States of America 	|
 | Lisa Richards 				| Seno Medical 										| United States of America 	|
 | Alexander Oraevsky 			| Tomowave Labs Inc 								| United States of America  |
+| Kai Liu 			| Union Photoacoustic Technologies							| China  |
 | Drew Heinmiller 				| VisualSonics 										| Canada					|
 | Jithin Jose 					| VisualSonics 										| Canada					|
 {{% /md %}}
