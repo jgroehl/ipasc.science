@@ -7,6 +7,20 @@ title = "Publications"
 ### 2020
 
 <div class="card">
+	<a href="/documents/20200824_EMIM_IPASC_Poster.pdf" target="_blank"> <i class="fas fa-file-pdf fa-5x indent form-icon"></i> </a>
+	<p class="title">EMIM 2020 Poster</p>
+	<p class="description"> IPASC poster from the EMIM conference </p>
+	<p class="publisher"> European Molecular Imaging Meeting </p>
+</div>
+
+<div class="card">
+	<a href="https://ieeexplore.ieee.org/document/9251362" target="_blank"> <i class="fas fa-file-text fa-5x indent form-icon"></i> </a>
+	<p class="title"> IPASC: a Community-Driven Consensus-Based Initiative Towards Standardisation in Photoacoustic Imaging</p>
+	<p class="description"> Proceedings Publication</p>
+	<p class="publisher"> IEEE International Ultrasonics Symposium (IUS) </p>
+</div>
+
+<div class="card">
 	<a href="/documents/20200121_Metadata_list.pdf" target="_blank"> <i class="fas fa-file-pdf fa-4x indent form-icon"></i> </a>
 	<a href="/documents/20200121_Metadata_List_Consensus_Result.pdf" target="_blank"> <i class="fas fa-chart-pie fa-4x indent form-icon"></i> </a>
 	<p class="title"> Standard Metadata Parameters</p>
