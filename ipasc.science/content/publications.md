@@ -17,7 +17,7 @@ title = "Publications"
 
 <div class="card">
 	<a href="/documents/SPIE-PW21B-ede40fb3-79c6-ea11-8146-005056be4d05.pdf" target="_blank"> <i class="fas fa-file-pdf fa-5x indent form-icon"></i> </a>
-	<p class="title">Facilitation of international collaboration by means of a standardised metadata format for photoacoustic images</p>
+	<p class="title">DAM Theme: Progress towards a standardised metadata format for photoacoustic images</p>
 	<p class="description"> 2021 Poster with updates on the standard data format specification and future plans</p>
 	<p class="publisher"> SPIE Photonics West </p>
 </div>

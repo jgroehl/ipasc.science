@@ -34,15 +34,14 @@ To achieve this goal the Data Acquisition and Management (DAM) theme is conducti
 
 ### Goal 1:
 
-A table summarising information on the technical specifications of PAI systems used throughout the consortium has been compiled. <br />
-From 2018 to 2021, the members of the theme have worked towards a <i>consensus document</i> for the photoacoustic data and device parameters. 
-The <a href="../documents/20200121_Metadata_list.pdf" target="_blank"><b>[first version of the manuscript]</b></a> was agreed to by the consortium on the 20th of January 2020 (with 75% agreement from 40 voters) 
-and after over a year of continuous integration of feedback,
-the <a href="../documents/20210916_IPASC_Format_V2.pdf" target="_blank"><b>[second version of the manuscript]</b></a> was agreed to on the 14th of July (with 95% agreement from 20 voters). <br />
-This document can be subject to further changes and optimisation based on feedback from the field and a third version might be published in the future.
+We compiled a table summarising information on the technical specifications of PAI systems used throughout the consortium. <br />
+From 2018 to 2021, the members of the theme have worked towards a <i>consensus document</i> for photoacoustic data and device parameters. 
+The <a href="../documents/20200121_Metadata_list.pdf" target="_blank"><b>[first version of the manuscript]</b></a> was agreed upon by the consortium on the 20th of January 2020 (with 75% agreement from 40 voters). After 1.5 years of continuous integration of feedback,
+the <a href="../documents/20210916_IPASC_Format_V2.pdf" target="_blank"><b>[second version of the manuscript]</b></a> was agreed upon on the 14th of July 2021 (with 95% agreement from 20 voters). <br />
+The final document can be subject to further changes and optimisation based on feedback from the community and a third version may be published in future.
 
 ### Goal 2:
-A task force was established in the theme that was tasked to develop an initial prototype of the open source software tool. The initial prototype was finished in August 2021 and 
+A task force was established within the theme to develop an initial prototype of the open source software tool. The initial prototype was finalized in August 2021 and 
 is <a href="https://github.com/IPASC/IPASC_DataConversionTool" target="_blank"><b>[available open source]</b></a> under the BSD 3-Clause License.
 
 
@@ -75,9 +74,9 @@ is <a href="https://github.com/IPASC/IPASC_DataConversionTool" target="_blank"><
 
 ### IPASC Image Reconstruction Project:
 
-The DAM theme is currently working towards using the standardised data description to create a library of open source implementations of image reconstruction algorithms that are compatible with the IPASC data format.
-The scientific goal of the project is to conduct an evaluation of each of these reconstruction algorithms under numerous different and extreme conditions to identify their respective strengths and weaknesses.
-The project idea is outlined in the figure below. If you want to join the project, please contact any of the DAM theme leads (Ben, Lina, or Janek).
+The current work of the DAM theme is focused on creating a library of open source image reconstruction algorithms that are compatible with the IPASC data format.
+The goal of the project is to evaluate the performance of each of these reconstruction algorithms under numerous different conditions to identify their respective strengths and weaknesses.
+The project idea is outlined in the figure below. If you would like to join the project, please feel free to contact any of the DAM theme leads (Ben, Lina, or Janek).
 
 <center>
 <img src="../img/IPASC-IRP_ ConceptOverviewAndVision.png" width="1000px" > </img>
