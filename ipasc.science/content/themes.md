@@ -16,7 +16,7 @@ The IPASC efforts have been streamlined into three thematic areas: <b>Phantom De
   </div>
 </a>
 
-<a class="hexagon" href="/theme-data-aquisition-and-management">
+<a class="hexagon" href="/theme-data-acquisition-and-management">
   <div class="hexagon-text">
 	<h4>Data Acquisition and Management</h4>
 	<p>Collect specifications of PAI systems and define a standard data format.</p>

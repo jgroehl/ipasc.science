@@ -4,7 +4,25 @@ title = "Publications"
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
-### 2020
+## 2021
+
+<div class="card">
+	<a href="/documents/20210916_IPASC_Format_V2.pdf" target="_blank"> <i class="fas fa-file-pdf fa-4x indent form-icon"></i> </a>
+	<a href="/documents/20210630_IPASC_Format_V2_Results.pdf" target="_blank"> <i class="fas fa-chart-pie fa-4x indent form-icon"></i> </a>
+	<p class="title">Photoacoustic Data and Device Parameters</p>
+	<p class="consensuslabel">Agreed proposal</p>
+	<p class="description"> List of PAI metadata parameters to enable description, interoperability, and exchange of data</p>
+	<p class="publisher"> IPASC </p>
+</div>
+
+<div class="card">
+	<a href="/documents/SPIE-PW21B-ede40fb3-79c6-ea11-8146-005056be4d05.pdf" target="_blank"> <i class="fas fa-file-pdf fa-5x indent form-icon"></i> </a>
+	<p class="title">Facilitation of international collaboration by means of a standardised metadata format for photoacoustic images</p>
+	<p class="description"> 2021 Poster with updates on the standard data format specification and future plans</p>
+	<p class="publisher"> SPIE Photonics West </p>
+</div>
+
+## 2020
 
 <div class="card">
 	<a href="/documents/20200824_EMIM_IPASC_Poster.pdf" target="_blank"> <i class="fas fa-file-pdf fa-5x indent form-icon"></i> </a>
@@ -29,7 +47,7 @@ title = "Publications"
 	<p class="publisher"> IPASC </p>
 </div>
 
-### 2019
+## 2019
 
 <div class="card">
 	<a href="/documents/20191210_Terms_Definitions_For_PAT.pdf" target="_blank"> <i class="fas fa-file-pdf fa-4x indent form-icon"></i> </a>
@@ -76,7 +94,7 @@ title = "Publications"
 	<p class="publisher">SPIE Photonics West</p>
 </div>
 
-### 2018
+## 2018
 
 <div class="card">
 	<a href="/presentations/2018-01-InitialProposal.pptx" target="_blank"> <i class="fas fa-file-powerpoint fa-5x indent form-icon"></i></a>

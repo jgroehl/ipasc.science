@@ -32,12 +32,11 @@ title = "Get Involved"
 					 and country can be published on the IPASC.science website. Your email address will not be published
 					 on the website and is just for being contacted by IPASC members.
 					 <br>
-           <br>
+					 <br>
 					 <input type="submit" value="Send Email">
 				  </fieldset>
 			  </form>
 			</div>
-
       </div>
     </div>
   </div>
